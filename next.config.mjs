@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-  // App Router is on by default in Next 14 when using /app
+  output: 'export',   // ✅ this tells Next.js to generate static files in /out
 };
 
 export default nextConfig;

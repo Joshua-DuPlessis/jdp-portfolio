@@ -4,3 +4,10 @@ out
 dist
 .env
 *.log
+
+# build artifacts
+.next
+out
+node_modules
+site.zip
+.env*
