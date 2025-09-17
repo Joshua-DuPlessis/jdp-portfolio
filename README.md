@@ -26,3 +26,11 @@ npm start  # serves on http://localhost:3000
 - Toggle dark mode with **Ctrl/Cmd + K**
 - Slide pages with **← / →** arrows
 - Edit content in `src/components/Portfolio.tsx`
+
+
+---
+
+## 📜 License
+
+This project is open-sourced under the [MIT License](./LICENSE).  
+You are free to use, copy, modify, and distribute this code with attribution.
